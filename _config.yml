@@ -1,16 +1,16 @@
 # site settings
-title: forty
-subtitle: by HTML5 UP
+title:  Maria's
+subtitle: portfolio
 email: sohailmaria76@gmail.com
 description:A graduate student ,learning and seeking knowledge about web development !
 baseurl: "/forty-jekyll-theme" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address: 1234 Somewhere Road
-city: Nashville
+street_address:C31 Ink City phase 1
+city: Hyderabad
 state: TN
-zip_code: 55555
-country: United States of America
+zip_code: 71000
+country: Pakistan
 phone: (716) 555-5555
 
 # homepage tiles
